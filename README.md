@@ -32,15 +32,15 @@ Home automation firmware for an ESP32 that controls a **fan** and **light** via 
 
 <div style="display:flex; overflow-x:auto; gap:10px;">
 
-  <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/FullProject.jpeg" alt="Full project" width="250"/>
+  <img src="https://raw.githubusercontent.com/smalakargh/PG-Automation/refs/heads/main/src/constants/FullProject.jpeg" alt="Full project" width="250"/>
 
-  <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/ESP32andReley.jpeg" alt="ESP32 and relay" width="250"/>
+  <img src="https://raw.githubusercontent.com/smalakargh/PG-Automation/refs/heads/main/src/constants/ESP32andReley.jpeg" alt="ESP32 and relay" width="250"/>
 
-  <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/DHT11.jpeg" alt="DHT11" width="250"/>
+  <img src="https://raw.githubusercontent.com/smalakargh/PG-Automation/refs/heads/main/src/constants/DHT11.jpeg" alt="DHT11" width="250"/>
 
-  <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/IRsensor.jpeg" alt="IR sensors" width="250"/>
+  <img src="https://raw.githubusercontent.com/smalakargh/PG-Automation/refs/heads/main/src/constants/IRsensor.jpeg" alt="IR sensors" width="250"/>
 
-  <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/MatrixDisplay.jpeg" alt="Matrix display" width="250"/>
+  <img src="https://raw.githubusercontent.com/smalakargh/PG-Automation/refs/heads/main/src/constants/MatrixDisplay.jpeg" alt="Matrix display" width="250"/>
 
 </div>
 
@@ -104,10 +104,10 @@ Open the Serial Monitor at **115200** baud to see connection, IR events, DHT rea
 
 1. Clone the repository
 ```sh
-git clone https://github.com/arijitbaurigh/PGAutomation.git
+git clone https://github.com/smalakargh/PG-Automation.git
 ```
 
 2. Move into the project folder
 ```sh
-cd PGAutomation
+cd PG-Automation
 ```
